@@ -1,0 +1,5 @@
+Database driver: {ODBC Driver 13 for SQL Server}
+Server name: DESKTOP-A2LVVUI
+Database name: LTPP2
+
+Custom setup: False
