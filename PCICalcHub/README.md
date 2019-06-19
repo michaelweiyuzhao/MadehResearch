@@ -4,7 +4,7 @@
 
 This web app is the result of a joint research project between Marmak Information Technologies and University of Toronto, with collaboration from Ontario Good Roads Association.
 It is developed based on machine learning algorithms to estimates the PCI of asphalt roads in the short term. Models are developed after analysing the data of 1000 examples of road sections in the US and Canada.
-Created in 2017 by Michael Zhao in collaboration with and based off the work of Madeh Piryonesi. Copied and hosted on Madeh's github at https://madeh.github.io
+Created in 2017 by Michael Zhao in collaboration with and based off the work of Madeh Piryonesi. Copied and hosted on Madeh's github at https://madeh.github.io and https://madeh.github.io/map/index.html
 
 ## Technology
 
